@@ -4,8 +4,8 @@ Ahora me encuentro como SWE en  <img src="https://img.shields.io/badge/Buk-2F4DA
 
 ### 👨🏼‍💻 Algo+ sobre mí
 * 💻 Tengo mi sitio personal: [roahoki.site](https://roahoki.site).
-* 🤸🏻 Fuera del código ando sacando el muscle up y el handstand en calistenia, corriendo por ahí o viendo una buena película.
-* 👨‍🏫 Me gusta dar clases de estructuras de datos y algoritmos 
+* 🤸🏻 Fuera del código ando sacando el muscle up y el handstand en calistenia, corriendo por ahí o viendo una película :)
+* 👨‍🏫 Me gusta dar clases! sobretodo de estructuras de datos y algoritmos 
 
 ### 🛠️ Mis confiables
 <p>
